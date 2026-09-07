@@ -274,7 +274,7 @@ Scan a user folder or specific file:
 ./scantouch scan /home/user/Downloads
 
 # Windows
-.\scantouch.exe scan C:\Users\ <username>\Downloads
+.\scantouch.exe scan C:\Users\ <username> \Downloads
 ```
 
 #### 2. Scan Whole User Drive with Multi-Threading
